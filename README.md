@@ -24,7 +24,7 @@ Actual width and apparent width are both caculated in meters but then converted 
 Please feel free to alter the parameters like speed, focal length etc at the beginning of the program. These are intended to be dynamic values.
 
 Thank You -
-Praneeth K
-Sampreeth 
-Harshak 
+Praneeth K , 
+Sampreeth ,  
+Harshak , 
 Shrish
